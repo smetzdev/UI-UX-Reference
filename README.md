@@ -2,84 +2,84 @@
 
 Living Document of inspirational UI/UX. Based on a Tweet of [Steve Schoger](https://twitter.com/steveschoger)
 
-## A
+### A
 
 - [Abstract](https://www.abstract.com/)
 - [Airbnb](https://www.airbnb.com/)
 - [Algolia](https://www.algolia.com/)
 - [Asana](https://asana.com/)
 
-## B
+### B
 
 - [Baremetrics](https://baremetrics.com/)
 - [Basecamp](https://basecamp.com/)
 
-## C
+### C
 
 - [Calibre](https://calibreapp.com/)
 - [Campaign Monitor](https://www.campaignmonitor.com/)
 
-## D
+### D
 
 - [DigitalOcean](https://www.digitalocean.com/)
 - [Discord](https://discordapp.com/)
 - [Dovetail](https://dovetailapp.com/)
 - [Dropbox](https://www.dropbox.com/)
 
-## E
+### E
 
 - [Etsy](https://www.etsy.com/)
 
-## G
+### G
 
 - [Gumroad](https://gumroad.com/)
 
-## H
+### H
 
 - [Harvest](https://www.getharvest.com/)
 - [Help Scout](https://www.helpscout.com/)
 - [Heroku](https://www.heroku.com/)
 
-## I
+### I
 
 - [Intercom](https://www.intercom.com/)
 
-## J
+### J
 
 - Join
 
-## L
+### L
 
 - [Lattice](https://lattice.com/)
 - [Linear](https://linear.app/)
 
-## M
+### M
 
 - [Marvel](https://marvelapp.com/)
 - [Mention](https://mention.com/)
 - [Mixpanel](https://mixpanel.com/)
 
-## N
+### N
 
 - [Netlify](https://www.netlify.com/)
 - [Notion](https://www.notion.so/)
 
-## O
+### O
 
 - [Opendoor](https://www.opendoor.com/)
 
-## P
+### P
 
 - [Paddle](https://paddlelogger.com/)
 - [Polymail](https://polymail.io/)
 - [Positionly](https://positionly.com/)
 - [Prismic](https://prismic.io/)
 
-## R
+### R
 
 - [Rippling](https://www.rippling.com/)
 
-## S
+### S
 
 - [Segment](https://segment.com/)
 - [Sentry](https://sentry.io/)
@@ -88,7 +88,7 @@ Living Document of inspirational UI/UX. Based on a Tweet of [Steve Schoger](http
 - [Stripe](https://stripe.com/)
 - [Superhuman](https://superhuman.com/)
 
-## T
+### T
 
 - [Things](https://culturedcode.com/things/)
 - [Todoist](https://todoist.com/)
@@ -96,15 +96,11 @@ Living Document of inspirational UI/UX. Based on a Tweet of [Steve Schoger](http
 - [Trello](https://trello.com/)
 - [Twitch](https://www.twitch.tv/)
 
-## U
-
-## V
-
-## W
+### W
 
 - [WealthBar](https://www.wealthbar.com/)
 - [Workable](https://www.workable.com/)
 
-## Z
+### Z
 
 - [Zeit](https://zeit.co/)
