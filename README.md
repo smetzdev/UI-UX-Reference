@@ -1,2 +1,49 @@
 # UI-UX-Reference
 Living Document of inspirational UI/UX. Inspired by a list of Steve Schoger
+
+- Shopify
+- Stripe
+- Help Scout
+- Zeit
+- Netlify
+- Baremetrics
+- DigitalOcean
+- Airbnb
+- Marvel
+- Intercom
+- WealthBar
+- Opendoor
+- Dropbox
+- Rippling
+- Simplecast
+- Segment
+- Dovetail
+- Heroku
+- Mention
+- Join
+- Workable
+- Gumroad
+- Discord
+- Notion
+- Campaign Monitor
+- Mixpanel
+- Calibre
+- Linear
+- Sentry
+- Algolia
+- Positionly
+- Asana
+- Prismic
+- Todoist
+- Superhuman
+- TransferWise
+- Things
+- Abstract
+- Polymail
+- Etsy
+- Basecamp
+- Harvest
+- Lattice
+- Twitch
+- Trello
+- Paddle
