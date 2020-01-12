@@ -46,7 +46,7 @@ Living Document of inspirational UI/UX. Based on a Tweet of [Steve Schoger](http
 
 ## J
 
-- Join
+- [Join](https://join.com/)
 
 ## L
 
