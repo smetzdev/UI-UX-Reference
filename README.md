@@ -5,7 +5,6 @@ Living Document of inspirational UI/UX. Based on a Tweet of [Steve Schoger](http
 ## A
 
 - [Abstract](https://www.abstract.com/)
-- [Abstract](https://www.abstract.com/)
 - [Acadium](https://acadium.com/)
 - [Airbnb](https://www.airbnb.com/)
 - [Airtable](https://airtable.com/)
@@ -103,6 +102,7 @@ Living Document of inspirational UI/UX. Based on a Tweet of [Steve Schoger](http
 ## P
 
 - [Paddle](https://paddlelogger.com/)
+- [Paste by WeTransfer](https://paste.bywetransfer.com/)
 - [Payfit](https://payfit.com/)
 - [Pitch](https://pitch.com/)
 - [Polymail](https://polymail.io/)
